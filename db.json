@@ -68,6 +68,54 @@
           "href": "http://localhost:3000/books/7"
         }
       ]
+    },
+    {
+      "title": "You are what you love",
+      "author": "James K.A. Smit",
+      "isbn": "158743380X",
+      "releaseDate": "2021-03-24",
+      "createdAt": "2021-03-24T23:00:59.510Z",
+      "updatedAt": "2021-03-24T23:00:59.511Z",
+      "id": 8,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books//8"
+        }
+      ]
+    },
+    {
+      "title": "The Bruised Reed",
+      "author": "Richard Seebs",
+      "isbn": "023423423",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-03-24T23:24:48.428Z",
+      "updatedAt": "2021-03-24T23:24:48.428Z",
+      "id": 9
+    },
+    {
+      "title": "You are what you love",
+      "author": "James K.A. Smit",
+      "isbn": "158743380X",
+      "releaseDate": "2021-03-24",
+      "createdAt": "2021-03-25T14:44:22.954Z",
+      "updatedAt": "2021-03-25T14:44:22.955Z",
+      "id": 10,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books//10"
+        }
+      ]
+    },
+    {
+      "title": "You are what you love",
+      "author": "James K.A. Smit",
+      "isbn": "158743380X",
+      "releaseDate": "2021-03-24",
+      "createdAt": "2021-03-25T14:45:18.476Z",
+      "updatedAt": "2021-03-25T14:45:18.476Z",
+      "id": 11
     }
   ],
   "households": [
